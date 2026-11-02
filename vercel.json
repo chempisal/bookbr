@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "bookstock-cambodia",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
+
